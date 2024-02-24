@@ -1,7 +1,8 @@
 # Courseway::E-learning-Platform
 A website will be developed for our web technology course. 
 
-#Initial Plan:
+===============
+<br>Initial Plan:<br>
 <b>Common Features for All User Category:</b>
 1.	Login/Sign in
 2.	Registration/Signup
